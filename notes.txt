@@ -1,0 +1,17 @@
+// add global git configuration
+git config --global user.name "Andrew"
+
+// show config
+git config --list
+
+// initialize local git repo
+git init
+
+// add to staging area
+git add -A
+
+// remove from staging area
+git reset
+
+// make commit
+git commit -m "message here"
