@@ -11,3 +11,7 @@ function add(x,y) {
 function divide(x,y) {
     return y===0 ? null : x/y;
 }
+
+function square(x) {
+    return x*x;
+}

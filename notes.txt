@@ -31,3 +31,8 @@ git branch -a
 // show changes between code
 git diff
 
+// merge branch
+git merge branch-name-to-be-merged
+
+
+
